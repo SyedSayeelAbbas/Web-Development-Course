@@ -1,0 +1,16 @@
+/* Css : Caste cading sheet */
+
+/* Html : is used to dispay content and we use it to make a structure 
+for our website it is the 5 persent of a website
+*/
+
+/* Html : skeleton , Css : is muscels and bones and skin , JS: how we add and perform function */
+
+*{
+   color: aquamarine;
+}
+
+.hello3{
+   color: bisque;
+   background-color: rgb(21, 6, 6);
+}
